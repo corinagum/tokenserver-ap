@@ -1,0 +1,14 @@
+{
+  "name": "24.token-server",
+  "version": "0.0.0-0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "restify": "^8.4.0"
+  }
+}
