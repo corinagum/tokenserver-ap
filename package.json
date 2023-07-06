@@ -9,6 +9,6 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "node-fetch": "^3.2.10",
-    "restify": "^8.4.0"
+    "restify": "^11.1.0"
   }
 }
